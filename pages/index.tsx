@@ -148,6 +148,10 @@ export default function Home() {
 }
 
 */
+
+
+
+
 import { useState } from "react";
 import Pill from "@/components/Pill";
 import PropertyCard from "@/components/PropertyCard";
