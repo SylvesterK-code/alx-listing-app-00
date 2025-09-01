@@ -4,11 +4,11 @@ export interface CardProps {
   description: string;
 }
 
+
 export interface ButtonProps {
   label: string;
   onClick: () => void;
 }
-
 
 
 
