@@ -59,8 +59,24 @@
 
 
 
+<<<<<<< HEAD
 import { useEffect, useState } from "react";
 import axios from "axios";
+=======
+      <div className="mt-4">
+        <Button label="Book Now" onClick={() => alert('Booking...')} />
+      </div>
+    </main>
+  );
+}
+
+*/
+
+
+
+
+import { useState } from "react";
+>>>>>>> 38129281aa59f7989920b0e9b58a0099742814f2
 import Pill from "@/components/Pill";
 import PropertyCard from "@/components/PropertyCard";
 
